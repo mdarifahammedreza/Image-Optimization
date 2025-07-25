@@ -156,6 +156,8 @@ MIT
 
 ## Author
 
-Developed by Reza
+Developed by [Md Arif Ahammed Reza](https://www.linkedin.com/in/md-arif-ahammed-reza/)
 
-```
+- 📧 Email: arifreza.dev@gmail.com  
+- 📞 Phone: +8801729318001
+
